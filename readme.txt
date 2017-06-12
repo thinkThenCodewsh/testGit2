@@ -6,5 +6,5 @@ git test checkout after add.
 test changes add commit master to origin with git bash.
 test changes add commit master to origin with sourcetree.
 test git branch switch.
-test git branch by sourceTree first failed second try.
+test git branch by handle conflict sourceTree first failed handle conflict second try.
 
