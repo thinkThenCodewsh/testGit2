@@ -9,3 +9,5 @@ test git branch switch.
 test git branch by handle conflict sourceTree first failed handle conflict second try.
 test git handle conflict by git bash.
 test again branch.
+test git branches by source tree.
+
