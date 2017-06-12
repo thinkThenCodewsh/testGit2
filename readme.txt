@@ -12,3 +12,5 @@ test again branch.
 test git branches by source tree.
 test git commit by sourceTree.
 test git no fast forward.
+test git merge branch with no fast forward.
+
