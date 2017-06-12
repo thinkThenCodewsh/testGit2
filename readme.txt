@@ -5,3 +5,4 @@ git test edit again after add.
 git test checkout after add.
 test changes add commit master to origin with git bash.
 test changes add commit master to origin with sourcetree.
+test git branch switch.
