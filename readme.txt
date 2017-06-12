@@ -10,4 +10,4 @@ test git branch by handle conflict sourceTree first failed handle conflict secon
 test git handle conflict by git bash.
 test again branch.
 test git branches by source tree.
-
+test git commit by sourceTree.
